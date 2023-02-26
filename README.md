@@ -8,7 +8,7 @@
 ## About Me:
 <div align="center">
 <p>
-	I'm
+	I am Mobin. I am a developer and designer who rock climbs and loves nature and van life. I am very addicted to learning. I try to learn new things every day. I enjoy creating work.
 </p>
 
 > Wear your learning, like your watch, in a private pocket. Do not pull it out merely to show that you have one. If asked what o’clock it is, tell it; but do not proclaim it hourly and unasked, like the watchman.
