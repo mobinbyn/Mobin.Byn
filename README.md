@@ -79,7 +79,7 @@
 		<img src="logo/espressif.png" alt="esp" width="60" height="60"/> 
 	</a>
 	<a href="https://www.freertos.org/" target="_blank" rel="noreferrer"> 
-		<img src="logo/FreeRtos.svg" alt="FreeRtos" width="60" height="35"/> 
+		<img src="logo/FreeRTOS.svg" alt="FreeRtos" width="60" height="35"/> 
 	</a>
 	<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
 		<img src="logo/git.svg" alt="git" width="60" height="60"/> 
