@@ -72,11 +72,17 @@
 	<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
 		<img src="logo/css3.svg" alt="css3" width="60" height="60"/> 
 	</a>
+	<a href="https://www.dart.dev/" target="_blank" rel="noreferrer"> 
+		<img src="logo/dart.svg" alt="dart" width="60" height="60"/> 
+	</a>
 	<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
 		<img src="logo/docker.svg" alt="docker" width="60" height="60"/> 
 	</a>
 	<a href="https://www.espressif.com/" target="_blank" rel="noreferrer"> 
 		<img src="logo/espressif.png" alt="esp" width="60" height="60"/> 
+	</a>
+	<a href="https://www.flutter.dev/" target="_blank" rel="noreferrer"> 
+		<img src="logo/flutter.svg" alt="flutter" width="60" height="60"/> 
 	</a>
 	<a href="https://www.freertos.org/" target="_blank" rel="noreferrer"> 
 		<img src="logo/FreeRTOS.svg" alt="FreeRtos" width="60" height="35"/> 
