@@ -84,14 +84,18 @@
 
 <div align="center">
 
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mobinbyn&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=mobinbyn&theme=dracula&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=mobinbyn&theme=dracula&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mobinbyn&theme=dracula&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=mobinbyn&limit=5&theme=dracula&combine_all_yearly_contributions=true)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=mobinbyn&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
 
 </div>
