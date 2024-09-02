@@ -84,6 +84,14 @@
 
 <div align="center">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mobinbyn&show_icons=true&theme=chartreuse-light)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=mobinbyn&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=mobinbyn&limit=5&theme=dracula&combine_all_yearly_contributions=true)
 
 </div>
